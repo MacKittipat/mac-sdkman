@@ -9,4 +9,5 @@
 
 ## SDKMAN
 
-1. Install Java 8 `sdk install java 8.0.382-tem` and 11 `sdk install java 11.0.20-tem` 
+1. Install Java 8 `sdk install java 8.0.382-tem` and 11 `sdk install java 11.0.20-tem`
+2. Installed SDK will be in `C:\Users\{USER}\.sdkman\candidates`
